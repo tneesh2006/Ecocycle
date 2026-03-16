@@ -32,5 +32,5 @@ battery, plastic, paper, glass,
 metal, clothing, dairy, oil, chemicals, paint
 
 ## Made for FOSS Hackathon 2026
-Built with React + Flask in 24 hours
+Built with React + Flask 
 ```
